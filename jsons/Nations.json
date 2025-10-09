@@ -1,38 +1,57 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Great Hwan Empire",
+		"leaderName": "Emperor Kim Il-Sung I Hwan",
+		"adjective": ["Great Hwan"],
+		"startBias": ["Plain"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "나는 위대한 대환제국의 황제이오. 위대한 대환제국은 기원전 15672년 부족사회를 통합하고 절대적인 지배 아래서 한반도와 일본열도, 중원과 시베리아, 중앙아시아와 동남아시아에 이르는 방대한 영토를 가진 초강대국이오. 그러나 먼 서쪽에는 핀란드라는 세력이 있었으니 한 때 대환제국의 영유권 아래 있었으나 미개한 족속들이 독립하여 지내게 된 작자들이오.",
+		"startIntroPart2": "기원전 8245년, 간악한 서쪽의 핀란드 놈들이 우리 대제국의 정당한 통치 중이던 운남 지역을 공격하는 일이 발생했소. 황제 자리의 정당성과 우리 대제국의 주권을 침탈하는 핀국에 맞서 전쟁을 치루게 된 것이오.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "다시, 전쟁이다.",
+		"attacked": "또, 전쟁인가.",
+		"defeated": "공룡오적만 없었더라면...!",
+		"introduction": "나는 위대한 대환제국의 황제이다.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"neutralHello": "환제국의 황제에게 머리를 조아려라.",
+		"neutralLetsHearIt": "입을 열어 보시게.",
+		"neutralNo": "감히 이런 말도 안되는 서신을 보내다니!",
+		"neutralYes": "그것 좋은 생각이군.",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"hateHello": "환제국의 황제를 볼 생각도 하지 마라.",
+		"hateLetsHearIt": "진정 무얼 말하고 싶은 것이냐?",
+		"hateNo": "우리를 농락하는군.",
+		"hateYes": "그정도는 우리가 받아들일 수 있다.",
+		
+		"afterPeace": "잠시 동안의 휴전이다.",
+		"tradeRequest": "나는 대환제국의 전신이다! 당신들에게 전갈을 보내러 왔다!",
+		"declaringFriendship": "외부의 침략에 맞서려면 힘을 모아야 한다.",
+		"denounced": "비열한 작자 같으니라고..."
+		
+		"outerColor": [255,255,255],
+		"innerColor": [245,210,0],
+		"uniqueName": "Hwandan Gogi",
+		"uniques": [
+			"[+100 Culture]",
+			"[+3000 Gold]",
+			"[+1000 Production] [in all cities]",
+			"Starts with [Hwan Start] adopted",
+			"Starts with [Agriculture]",
+			"[+2000 Gold] per every [100] [Faith]",
+			"[+20]% [Production]",
+			"[+10]% Yield from every [All]",
+			"[+10000]% growth [in all cities]",
+			"[-10]% unhappiness from the number of cities",
+			"[-99]% Unhappiness from [Population] [in all cities]",
+			"[100] Unit Supply",
+			"[-20]% Strength for cities",
+			"New [All] units start with [150] XP [in all cities]",
+			"[+100]% enemy spy effectiveness [in all cities]",
+			"[+50]% Strength decreasing with distance from the capital",
+			"Population loss from nuclear attacks [+25]% [in all cities]"
+		],
+		"cities": ["서울","ㅁㄴㅇㄹ","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Nicaeanopolis"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 	}
 ]
