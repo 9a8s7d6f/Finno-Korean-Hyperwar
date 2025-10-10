@@ -52,7 +52,7 @@
 			"Population loss from nuclear attacks [+25]% [in all cities]"
 		],
 		"cities": ["서울","","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Nicaeanopolis"],
-		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 	{
 		"name": "Proto-Finnic Holy Roman Khaganate",
@@ -103,8 +103,9 @@
 			"New [All] units start with [150] XP [in all cities]",
 			"[+100]% spy effectiveness [in all cities]",
 			"[+30]% Strength",
-			"Population loss from nuclear attacks [-50]% [in all cities]"
+			"Population loss from nuclear attacks [-50]% [in all cities]",
+			"[+20]% to Flank Attack bonuses"
 		],
 		"cities": ["","","","","","", "","","",""],
-		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 ]
