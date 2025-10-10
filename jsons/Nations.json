@@ -51,7 +51,60 @@
 			"[+50]% Strength decreasing with distance from the capital",
 			"Population loss from nuclear attacks [+25]% [in all cities]"
 		],
-		"cities": ["서울","ㅁㄴㅇㄹ","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Nicaeanopolis"],
+		"cities": ["서울","","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
-	}
+	},
+	{
+		"name": "Proto-Finnic Holy Roman Khaganate",
+		"leaderName": "Khagan Väinämöinen the Ultimate von Habsburg",
+		"adjective": ["Ancient Finnish"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
+		
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"declaringFriendship": "",
+		"denounced": ""
+		
+		"outerColor": [255,255,255],
+		"innerColor": [245,210,0],
+		"uniqueName": "Grandson of Tengri and Son of Ukko",
+		"uniques": [
+			"[+100 Culture]",
+			"[+3000 Gold]",
+			"[+1000 Production] [in all cities]",
+			"Starts with [Fin Start] adopted",
+			"Starts with [Agriculture]",
+			"[+2000 Gold] per every [100] [Faith]",
+			"[+10]% Yield from every [All]",
+			"[+100]% growth [in all cities]",
+			"[-75]% unhappiness from the number of cities",
+			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[100] Unit Supply",
+			"[+20]% Strength for cities",
+			"New [All] units start with [150] XP [in all cities]",
+			"[+100]% spy effectiveness [in all cities]",
+			"[+30]% Strength",
+			"Population loss from nuclear attacks [-50]% [in all cities]"
+		],
+		"cities": ["","","","","","", "","","",""],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 ]
