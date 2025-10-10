@@ -61,13 +61,13 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Me olemme suuren Suomi-Egyptiläisen 34. dynastian pyhän Rooman keisarin ja khaanin vallan alaisia suomalaisia. Me hallitsemme maailmaa ja omistamme ylivoimaisen teknologian. Mutta idästä tulevat Hwanguk-nimiset itäiset kansat himoitsevat meitä!",
+		"startIntroPart2": "Jatkuvan jännitteisen vastakkainasettelun aikana he hyökkäsivät ensin Suomi-imperiumin Intian provinssiin. Me tulemme lopettamaan tämän sodan.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Se on sotaa!",
+		"attacked": "Uudelleen?",
+		"defeated": "Miten?",
+		"introduction": "Minä olen 34. Suomi-Egyptiläisen dynastian keisari.",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": "",
@@ -108,4 +108,46 @@
 		],
 		"cities": ["","","","","","", "","","",""],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	},
+	{
+		"name": "Lemuria",
+		"leaderName": "Ahnsuomi",
+		"adjective": ["Lemurian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
+		
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+		"declaringFriendship": "",
+		"denounced": ""
+		
+		"outerColor": [255,255,255],
+		"innerColor": [245,210,0],
+		"uniqueName": "The Lost Continent",
+		"uniques": [
+			
+		],
+		"cities": ["","","","","","", "","","",""],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	},
+
+		
 ]
