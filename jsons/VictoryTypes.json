@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Domination",
+        "victoryScreenHeader": "Capture all enemy Capitals\nto win!",
+        "milestones": ["Capture all capitals"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+  {
+        "name": "Aetherophasic Engine Build",
+        "victoryScreenHeader": "Build Aetherophasic Engine to win!",
+        "milestones": ["Build [Aetherophasic Engine]"],
+        "victoryString": "우리는 마침내 이 우주를 벗어나 고차원적인 존재가 되었습니다. 그 여파로 이 우주의 다른 모든 것들은 블랙홀이 되겠지만, 고차원적 존재에게 그것은 전혀 신경쓸 필요가 없습니다.",
+        "defeatString": "적은 에테르페이직 엔진을 가동시켜 한 단계 높은 차원으로 전이했고, 우리 우주는 붕괴했습니다. 우리의 패배입니다."
+    }
+]
